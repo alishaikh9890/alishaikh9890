@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alishan Ajim Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A skilled frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alishaikh9890&label=Profile%20views&color=0e75b6&style=flat" alt="alishaikh9890" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alishaikh9890" alt="alishaikh9890" /></a> </p>
 
-- 🔭 I’m currently working on [Lifestyle](https://github.com/alishaikh9890/lifestylestores.com)
+- 🔭 I’m currently working on [Admin-panel](https://github.com/alishaikh9890/Admin-Panel_node.git)
 
-- 🌱 I’m currently learning **React, Full-Stack Web Developement**
+- 🌱 I’m currently Working As a full-stack Web Developer (MERN)
 
 - 👯 I’m looking to collaborate on **Open source project**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [-](-)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **Node**
 
 - 📫 How to reach me **alishanshaikh9890@gmail.com**
 
